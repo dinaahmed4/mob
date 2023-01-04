@@ -1,0 +1,126 @@
+body {
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+@media only screen and (max-width:992px) {
+    nav a {
+        margin-left: 5px;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .smll {
+        margin-top: 1px;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .dina {
+        font-size: small;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .centere {
+        margin-top: 40px;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    body {
+        font-size: 20px;
+    }
+}
+
+/*  start social media section  */
+
+.demo {
+    margin-top: 130px;
+}
+
+/* End social media section  */
+
+/* start details section  */
+
+.dina {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 7%;
+    color: white;
+}
+
+.ahmed {
+    margin-left: 40%;
+    margin-top: 10px;
+    margin-bottom: 7%;
+
+}
+
+/* End details section  */
+
+/* start device section  */
+
+.icon {
+    height: 10%;
+    /* margin-bottom: 10px;
+    margin-top: 50%; */
+    color: rgb(16, 63, 94);
+}
+
+h2 {
+    font-size: 20px;
+}
+
+#dndn {
+    font-size: small;
+    font-weight: bold;
+}
+
+/* End device section */
+
+/* start stop section  */
+
+
+.centered {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+}
+
+.cent {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+}
+
+
+.centere {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+/* End stop section  */
+
+/* Start footer section  */
+
+#container {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-top: 10%;
+}
+
+#get {
+    margin-bottom: 20px;
+    color: rgb(255, 255, 255);
+}
+
+/* End footer section  */
